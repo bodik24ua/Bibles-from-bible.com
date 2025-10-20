@@ -13,7 +13,7 @@ SQLite Bible translations from bible.com (YouVersion).
 
 ## Limitations
 
-*   **No Aliases**: Does not include shorthand book name aliases (e.g., for quick search , `"gen 1:1-5"`).
+*   **No Aliases**: Does not include shorthand book name aliases (e.g., for quick search , `"gen 1 1"`).
 *   **No Lemmatization**: The text is stored as-is, without word stemming or root word analysis.
 *   **No Full-Text Search**: The databases are not optimized with an FTS index for fast, word-based searches.
 *   **No Reference Parsing**: Does not include a parser for complex queries like `"John 3:16-18"`.
