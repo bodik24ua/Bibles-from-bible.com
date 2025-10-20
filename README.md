@@ -3,7 +3,7 @@
 A collection of SQLite Bible translations sourced from bible.com (YouVersion).
 
 **Find a Bible translation or language you need**
-   # *   [**Click here to search for a Bible**](https://github.com/bodik24ua/Bibles-from-bible.com?search=1)
+   # *   [**Click here to find a Bible**](https://github.com/bodik24ua/Bibles-from-bible.com?search=1)
    ***Search Tips***
    - type full or short language name in english or native language that you are looking for
    - type Bible version abbreviation, id, or initialism (e.g. kjv)
