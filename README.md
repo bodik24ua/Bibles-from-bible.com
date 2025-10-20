@@ -1,6 +1,8 @@
 # Bibles from bible.com
 
-A collection of SQLite Bible translations sourced from bible.com (YouVersion).
+A collection of SQLite Bible translations sourced from bible.com (YouVersion). 
+
+*Zipped have 3.74GB, unzipped (all sql files) have ~12GB. That is reason each file are zipped*
 
 **Find a Bible translation or language you need**
    # *   [**Click here to find a Bible**](https://github.com/bodik24ua/Bibles-from-bible.com?search=1)
